@@ -1,5 +1,5 @@
 # Scrapy
-- 读取start_url[]中url
+- 读取 start_url 列表中的 url
 - 爬取网站【title】、【keywords】、【description】
 - 结果导入SQLite
 
