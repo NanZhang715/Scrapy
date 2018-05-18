@@ -7,3 +7,4 @@
 - 分析工具使用Spider
 - 利用JIEBA清洗，寻找关键词
 - TF-IDF、TextRank 输出tag_words 以及相应权重
+- 利用wordcloud生成词云
