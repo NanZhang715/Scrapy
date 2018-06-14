@@ -1,6 +1,6 @@
 ## Scrapy
 - 读取 SQLite 中url地址，放入start_url列表
-- 执行‘scrapy crawl nzhang’开始任务
+- 执行‘scrapy crawl nzhang(爬虫名)’开始任务
 - 爬取网站【title】、【keywords】、【description】、【body】
 - 结果导入SQLite
 
